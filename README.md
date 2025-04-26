@@ -80,16 +80,3 @@ This project uses Machine Learning to predict students' academic scores (Math, R
 - Line plot visualizing Math actual vs predicted scores
 
 ---
-
-## 📩 Contact
-
-For any query, feel free to contact: [your-email@example.com]
-
----
-
-## 📎 Note
-
-- Make sure you have the Excel dataset file (`StudentsPerformance.xlsx`) in the correct path.
-- Update the email and repository URL as per your profile.
-
----
